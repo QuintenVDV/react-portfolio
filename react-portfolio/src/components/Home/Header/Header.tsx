@@ -26,11 +26,7 @@ export default function Header() {
           </div>
         </div>
         <div className="flex flex-col w-1/2 items-center justify-center">
-          <img
-            src={notification}
-            alt="notification"
-            className="justify-center"
-          />
+          <img alt="notification" className="justify-center" />
         </div>
       </div>
     </div>

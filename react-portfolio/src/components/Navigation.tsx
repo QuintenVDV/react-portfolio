@@ -41,7 +41,7 @@ export default function NavBar() {
                 </a>
 
                 <a type="button" className="hover:text-lime-900 transition">
-                  <img src={mail} alt="mail" className="h-8s" />
+                  <img src={mail} alt="mail" className="h-8" />
                 </a>
               </div>
             </nav>
