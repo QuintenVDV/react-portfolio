@@ -1,4 +1,3 @@
-import { useState } from "react";
 import NavBar from "./Navigation";
 import Home from "./Home/Home";
 import "../dist/output.css";

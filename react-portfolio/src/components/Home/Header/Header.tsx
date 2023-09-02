@@ -1,5 +1,4 @@
 import WelcomeBanner from "./WelcomeBanner";
-import notification from "../../../assets/notification.png";
 export default function Header() {
   return (
     <div className="flex flex-col gap-5 items-center justify-between h-full">
