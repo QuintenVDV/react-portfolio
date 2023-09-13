@@ -1,4 +1,6 @@
 import WelcomeBanner from "./WelcomeBanner";
+import notification from "../../../assets/notification.png";
+
 export default function Header() {
   return (
     <div className="flex flex-col gap-5 items-center justify-between h-full">
@@ -17,7 +19,7 @@ export default function Header() {
             </p>
             <hr className="w-1/2 mt-5 h-[5px] border-none bg-gradient-to-r from-purple-nav-from from-60% to-blue-200" />
           </div>
-          <div className="flex flex-col mt-5 text-gray-200 text-lg font-ligth">
+          <div className="flex flex-col mt-5 text">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor sed,
             temporibus architecto quis facere modi tempore voluptas,
             consequuntur quas possimus officiis quidem natus qui praesentium
@@ -25,7 +27,11 @@ export default function Header() {
           </div>
         </div>
         <div className="flex flex-col w-1/2 items-center justify-center">
-          <img alt="notification" className="justify-center" />
+          <img
+            src={notification}
+            alt={notification}
+            className="justify-center"
+          />
         </div>
       </div>
     </div>

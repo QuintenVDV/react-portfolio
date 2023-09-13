@@ -4,7 +4,7 @@ import "../dist/output.css";
 
 function App() {
   return (
-    <div className="flex flex-col gap-10">
+    <div className="flex flex-col gap-10 py-10 h-full">
       <NavBar />
       <Home />
     </div>

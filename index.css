@@ -36,8 +36,8 @@
     @apply text-base text-gray-100 font-light relative border-gray-300 p-1
 }
 
-.base-text{
-    @apply text-gray-300 text-base
+.text{
+    @apply text-gray-200 text-base font-light
 }
 
 

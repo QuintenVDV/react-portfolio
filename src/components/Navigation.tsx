@@ -1,12 +1,12 @@
 import "../dist/output.css";
-import instagram from "../assets/logos/instagram.png";
-import linkedIn from "../assets/logos/linkedinlogo.png";
-import mail from "../assets/logos/mail.png";
+import instagram from "../assets/logos/Socialmedia/instagram.png";
+import linkedIn from "../assets/logos/Socialmedia/linkedinlogo.png";
+import mail from "../assets/logos/Socialmedia/mail.png";
 
 export default function NavBar() {
   return (
     <div className="flex flex-col h-full">
-      <div className="w-full flex items-center justify-center md:pt-10 ">
+      <div className="w-full flex items-center justify-center  ">
         <div className="w-full md:w-[800px] h-[100px] flex flex-wrap items-center justify-between navbar-color bg-opacity-50 rounded-xl py-2 px-10">
           <header className=" w-full ">
             <nav className=" flex flex-col md:flex-row max-w-7xl justify-between items-center ">
