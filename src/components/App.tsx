@@ -24,6 +24,7 @@ function App() {
           </Switch>
         </div>
         <div className="h-max"></div>
+        <Footer />
       </div>
     </Router>
   );

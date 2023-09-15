@@ -15,7 +15,7 @@ export default function NavBar() {
                   className="group px-3 py-3 transition-all duration-300 ease-in-out"
                   href="/"
                 >
-                  <span className="selectedNavTitle">Home</span>
+                  <span className="defaultNavTitle">Home</span>
                 </a>
                 <a
                   className="group px-3 py-3 transition-all duration-300 ease-in-out"

@@ -1,10 +1,10 @@
-import WelcomeBanner from "./WelcomeBanner";
+import Banner from "../../Banner";
 import notification from "../../../assets/notification.png";
 
 export default function Header() {
   return (
     <div className="flex flex-col gap-5 items-center justify-between h-full">
-      <WelcomeBanner />
+      <Banner text="Welcome to my portfolio" />
       <div className="flex flex-row w-full items-center justify-between">
         <div className="flex flex-col w-1/2 ">
           <div className="">
