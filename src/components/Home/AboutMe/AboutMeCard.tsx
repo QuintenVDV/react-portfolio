@@ -45,7 +45,7 @@ export default function AboutMeCard() {
           <p className="text h-full">{aboutMe.text}</p>
           <button
             onClick={nextAboutMe}
-            className="border self-end shadow-black px-4 py-1 border-1 border-black bg-light-pink rounded-xl shadow-2xl text-white font-semibold font-pixel w-fit"
+            className="border self-end hover:scale-105 transition-all shadow-black px-4 py-1 border-1 border-black bg-light-pink rounded-xl shadow-2xl text-white font-semibold font-pixel w-fit"
           >
             Next
           </button>

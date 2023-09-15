@@ -113,7 +113,7 @@ export default function SkillsScroller() {
           d="M15.75 19.5L8.25 12l7.5-7.5"
         />
       </svg>
-      <div className="relative">
+      <div className="relative w-[360px]">
         <div className="slide flex flex-row overflow-x-auto space-x-4 p-4">
           {data.frontendSkills
             .slice(startIndex, startIndex + itemsPerPage)

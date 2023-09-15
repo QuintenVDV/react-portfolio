@@ -81,8 +81,8 @@ export default function ContactMeCard() {
               placeholder="Message"
               className="border-2 border-black w-2/3"
             ></textarea>
-            <button className="border shadow-black px-4 py-1 border-1 border-black bg-light-pink rounded-xl shadow-2xl text-white font-semibold font-pixel w-fit">
-              Send
+            <button className="border hover:scale-105 transition-all shadow-black px-4 py-1 border-1 border-black bg-light-pink rounded-xl shadow-2xl text-white font-semibold font-pixel w-fit">
+              send
             </button>
           </form>
         </div>
