@@ -14,7 +14,12 @@ export default {
         "purple-main": "#593063",
         "purple-nav-to": "#B78EEC",
         "purple-nav-from": "#9670BD",
+        "light-purple":"#CCAEE6",
+        "light-brown": "#E3DED2",
+        "light-pink": "#E6B3BE",
+        "dark-purple": "#261B2C",
         "pink": "#8E5099",
+        
     },
     fontFamily: {
       "PressStart2P": ["Press+Start+2P", 'cursive'],

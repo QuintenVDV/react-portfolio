@@ -71,3 +71,17 @@
 .review-card{
     @apply p-6 bg-white rounded-md group-hover:border-blue-500 transition border-4 group-hover:scale-105
 }
+
+/* CSS for slide animation */
+/* Slide container */
+.slider-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Individual slide */
+  .slide {
+    width: 100%;
+    transition: transform 0.5s ease-in-out; /* Add a transition for smooth sliding */
+  }
+  

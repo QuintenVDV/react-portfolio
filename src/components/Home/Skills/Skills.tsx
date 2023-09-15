@@ -1,7 +1,7 @@
 import SkillsScroller from "./SkillsScroller";
 export default function Skills() {
   return (
-    <div className="w-full md:w-[700px] flex flex-wrap items-center justify-between bg-purple-nav-from bg-opacity-50 rounded-3xl">
+    <div className="w-full md:w-[700px] flex flex-wrap items-center justify-between bg-dark-purple bg-opacity-70 rounded-3xl">
       <div className="flex py-6 px-8 w-full gap-10 items-center justify-center">
         <div className="w-fit flex flex-col gap-3 items-center justify-center">
           <div>

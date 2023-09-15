@@ -1,0 +1,71 @@
+{
+    "AboutMe": [
+        {
+            "id": 1,
+            "title": "About me",
+            "text": "Hi! My name is Quinten van de vreken. Currently I am a 20 year old Computer Science student at Karel de grote In antwerp. "
+          },
+          {
+            "id": 2,
+            "title": "Education",
+            "text": "I have been studying computer science for 2 years now, which makes me a last year student. In those two years I have gained a strong base of knowledge in the field of computer science. I have also learned to work with different programming languages and frameworks. "
+          },
+          {
+            "id": 3,
+            "title": "Passion",
+            "text": "I have a passion for programming and web development. I am always looking for new challenges and projects to work on. I am a very motivated person and I always try to give my best. I am a very social person and I like to work in a team. I am also a very creative person and I like to solve problems."
+          }
+    ], 
+    "Skills": [
+       
+                {
+                  "id": 1,
+                  "title": "HTML5",
+                  "logo": "/assets/logos/Frontend/html_pixel.png"
+                },
+                {
+                  "id": 2,
+                  "title": "CSS3",
+                  "logo": "/assets/logos/Frontend/css_pixel.png"
+                },
+                {
+                  "id": 3,
+                  "title": "JavaScript",
+                  "logo": "/assets/logos/Frontend/javascript_pixel.png"
+                },
+                {
+                  "id": 1,
+                  "title": "HTML5",
+                  "logo": "/assets/logos/Frontend/html_pixel.png"
+                },
+            
+                {
+                  "id": 3,
+                  "title": "JavaScript",
+                  "logo": "/assets/logos/Frontend/javascript_pixel.png"
+                }
+             
+    ], 
+    "Titles": [
+        {
+            "id":1,
+            "title": "TI Student"
+        },
+        {
+            "id":2,
+            "title": "Designer"
+        },
+        {
+            "id":3,
+            "title": "Front-end developer"
+        },
+        {
+            "id":4,
+            "title": "Back-end developer"
+        },
+        {
+            "id":5,
+            "title": "Full-stack developer"
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 import Header from "./Header/Header";
 import Skills from "./Skills/Skills";
 import AboutMeCard from "./AboutMe/AboutMeCard";
+import ContactMeCard from "./ContactMe/ContactMeCard";
 export default function Home() {
   return (
     <div className="w-full flex flex-row gap-10 items-center justify-center ">
@@ -13,6 +14,9 @@ export default function Home() {
         </div>
         <div className="">
           <AboutMeCard />
+        </div>
+        <div>
+          <ContactMeCard />
         </div>
       </div>
     </div>
